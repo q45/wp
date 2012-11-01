@@ -8,8 +8,13 @@ Tags: flexble-width, translation-ready, microformats, rtl-language-support
 */
 
 body {
-    background: green;
+    background: #efefef;
 }
-wrap {
+#wrap {
+	width: 960px;
+	marginL 0 auto;
+}
 
+#header {
+	text-align: center;
 }
