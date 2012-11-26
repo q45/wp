@@ -16,8 +16,6 @@ get_header(); ?>
 
 		<div id="primary">
 			<div id="content" role="main">
-				<div class="features">
-				<div class="left">
 
 			<?php if ( have_posts() ) : ?>
 
@@ -46,8 +44,7 @@ get_header(); ?>
 				</article><!-- #post-0 -->
 
 			<?php endif; ?>
-		</div> <!-- end left -->
-	</div><!--end features -->
+
 			</div><!-- #content -->
 		</div><!-- #primary -->
 

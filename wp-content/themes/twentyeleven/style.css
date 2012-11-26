@@ -36,8 +36,11 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 	outline: 0;
 }
 body {
-	background: #fff;
-	line-height: 1;
+	background-image: url("../inc/images/bg.jpg");
+	background-position: center;
+	background-repeat: repeat;
+	background-color: #dedde3;
+	position: relative;
 }
 ol, ul {
 	list-style: none;
